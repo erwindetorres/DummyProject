@@ -1,0 +1,36 @@
+{
+  "root": {
+    "SiteUrls": [
+      {
+        "name": "Industries",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/",
+        "updated_at": "2019-04-25T09:52:59.000"
+      },
+      {
+        "name": "Bioscience & Health Care",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/bioscience-health-care/",
+        "updated_at": "2019-04-25T09:52:55.000"
+      },
+      {
+        "name": "Rankings",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/by-the-numbers/rankings/",
+        "updated_at": "2019-04-25T16:04:34.000"
+      },
+      {
+        "name": "Demographics",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/by-the-numbers/demographics/",
+        "updated_at": "2019-04-25T16:06:33.000"
+      },
+      {
+        "name": "Economy",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/by-the-numbers/economy/",
+        "updated_at": "2019-04-25T09:53:11.000"
+      },
+      {
+        "name": "Education",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/by-the-numbers/education/",
+        "updated_at": "2019-04-25T09:53:17.000"
+      }
+    ]
+  }
+}
