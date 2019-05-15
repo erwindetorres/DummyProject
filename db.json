@@ -2,14 +2,114 @@
   "root": {
     "SiteUrls": [
       {
-        "name": "Industries",
-        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/",
-        "updated_at": "2019-04-25T09:52:59.000"
+        "name": "Arizona Advantage",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/",
+        "updated_at": "2019-04-25T15:37:19.000"
       },
       {
-        "name": "Bioscience & Health Care",
-        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/bioscience-health-care/",
-        "updated_at": "2019-04-25T09:52:55.000"
+        "name": "Mission",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/mission/",
+        "updated_at": "2019-04-25T09:54:25.000"
+      },
+      {
+        "name": "Value Proposition",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/value-proposition/",
+        "updated_at": "2019-04-25T09:54:22.000"
+      },
+      {
+        "name": "First in the Nation Innovation",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/first-in-the-nation-innovation/",
+        "updated_at": "2019-04-25T09:54:20.000"
+      },
+      {
+        "name": "Fintech Sandbox",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/first-in-the-nation-innovation/fintech-sandbox/",
+        "updated_at": "2019-04-25T09:54:11.000"
+      },
+      {
+        "name": "Automated Vehicles",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/first-in-the-nation-innovation/automated-vehicles/",
+        "updated_at": "2019-04-25T09:54:14.000"
+      },
+      {
+        "name": "Leading Industries",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/leading-industries/",
+        "updated_at": "2019-04-25T09:53:57.000"
+      },
+      {
+        "name": "Technology & Innovation",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/leading-industries/technology-innovation/",
+        "updated_at": "2019-04-25T09:54:00.000"
+      },
+      {
+        "name": "Aerospace & Defense",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/leading-industries/aerospace-defense/",
+        "updated_at": "2019-04-25T09:54:02.000"
+      },
+      {
+        "name": "Manufacturing",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/leading-industries/manufacturing/",
+        "updated_at": "2019-04-25T09:54:04.000"
+      },
+      {
+        "name": "Initiatives",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/",
+        "updated_at": "2019-04-25T09:53:54.000"
+      },
+      {
+        "name": "Entrepreneurial Ecosystem",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/entrepreneurial-ecosystem/",
+        "updated_at": "2019-04-25T09:53:43.000"
+      },
+      {
+        "name": "Institute for Automated Mobility",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/institute-for-automated-mobility/",
+        "updated_at": "2019-04-25T09:53:45.000"
+      },
+      {
+        "name": "AZSkyTech",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/azskytech/",
+        "updated_at": "2019-04-25T09:53:47.000"
+      },
+      {
+        "name": "Rural Broadband Extension",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/rural-broadband-extension/",
+        "updated_at": "2019-04-25T09:53:49.000"
+      },
+      {
+        "name": "Opportunity Zones",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/initiatives/opportunity-zones/",
+        "updated_at": "2019-04-25T09:53:52.000"
+      },
+      {
+        "name": "Talent",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/talent/",
+        "updated_at": "2019-04-25T09:53:38.000"
+      },
+      {
+        "name": "Water",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/water/",
+        "updated_at": "2019-04-25T09:53:36.000"
+      },
+      {
+        "name": "Quality of Life",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/quality-of-life/",
+        "updated_at": "2019-04-25T09:53:33.000"
+      },
+      {
+        "name": "International",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/international/",
+        "updated_at": "2019-04-25T09:53:31.000"
+      },
+      {
+        "name": "TEMP",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/arizona-advantage/temp/",
+        "updated_at": "2019-04-25T09:53:30.000"
+      },
+      {
+        "name": "By the Numbers",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/by-the-numbers/",
+        "updated_at": "2019-04-25T09:53:19.000"
       },
       {
         "name": "Rankings",
@@ -32,9 +132,369 @@
         "updated_at": "2019-04-25T09:53:17.000"
       },
       {
+        "name": "Industries",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/",
+        "updated_at": "2019-04-25T09:52:59.000"
+      },
+      {
+        "name": "Aerospace & Defense",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/aerospace-defense/",
+        "updated_at": "2019-04-25T16:05:47.000"
+      },
+      {
+        "name": "Bioscience & Health Care",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/bioscience-health-care/",
+        "updated_at": "2019-04-25T09:52:55.000"
+      },
+      {
+        "name": "Business & Financial",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/business-financial/",
+        "updated_at": "2019-04-25T09:52:56.000"
+      },
+      {
+        "name": "Film & Digital Media",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/film-digital-media/",
+        "updated_at": "2019-04-25T09:52:56.000"
+      },
+      {
+        "name": "Manufacturing",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/manufacturing/",
+        "updated_at": "2019-04-25T16:06:15.000"
+      },
+      {
+        "name": "Technology & Innovation",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/technology-innovation/",
+        "updated_at": "2019-04-29T13:02:45.000"
+      },
+      {
+        "name": "Test Industry",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/test-industry/",
+        "updated_at": "2019-05-08T10:49:17.000"
+      },
+      {
+        "name": "Test Industry 2",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/test-industry-2/",
+        "updated_at": "2019-05-09T19:32:11.000"
+      },
+      {
+        "name": "Test Industry 3",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/test-industry-3/",
+        "updated_at": "2019-05-14T16:03:16.000"
+      },
+      {
+        "name": "Test Industry 4",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/test-industry-4/",
+        "updated_at": "2019-05-14T16:03:06.000"
+      },
+      {
+        "name": "Test Industry 5",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/industries/test-industry-5/",
+        "updated_at": "2019-05-14T17:16:19.000"
+      },
+      {
         "name": "Next Gen Trends",
         "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/",
         "updated_at": "2019-04-25T09:52:49.000"
+      },
+      {
+        "name": "Autonomous Vehicles",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/autonomous-vehicles/",
+        "updated_at": "2019-04-25T09:52:27.000"
+      },
+      {
+        "name": "Renewable Engery",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/renewable-engery/",
+        "updated_at": "2019-04-25T09:52:29.000"
+      },
+      {
+        "name": "Education Technology",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/education-technology/",
+        "updated_at": "2019-04-25T09:52:32.000"
+      },
+      {
+        "name": "Internet of Things",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/internet-of-things/",
+        "updated_at": "2019-04-25T09:52:34.000"
+      },
+      {
+        "name": "Fresh Water Science",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/fresh-water-science/",
+        "updated_at": "2019-04-25T09:52:37.000"
+      },
+      {
+        "name": "Personalized Medicine",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/personalized-medicine/",
+        "updated_at": "2019-04-25T09:52:39.000"
+      },
+      {
+        "name": "Smart Materials",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/smart-materials/",
+        "updated_at": "2019-04-25T09:52:42.000"
+      },
+      {
+        "name": "Telemedicine",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/telemedicine/",
+        "updated_at": "2019-04-25T09:52:44.000"
+      },
+      {
+        "name": "Agricultural Technology",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/next-gen-trends/agricultural-technology/",
+        "updated_at": "2019-04-25T09:52:47.000"
+      },
+      {
+        "name": "Communities",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/communities/",
+        "updated_at": "2019-04-25T15:58:42.000"
+      },
+      {
+        "name": "Quality of Life",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/quality-of-life/",
+        "updated_at": "2019-04-25T16:08:33.000"
+      },
+      {
+        "name": "Education",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/",
+        "updated_at": "2019-04-25T15:58:43.000"
+      },
+      {
+        "name": "K-12 Schools",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/k-12-schools/",
+        "updated_at": "2019-04-25T09:52:17.000"
+      },
+      {
+        "name": "Community Colleges",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/",
+        "updated_at": "2019-04-25T09:52:15.000"
+      },
+      {
+        "name": "AZ Western College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/az-western-college/",
+        "updated_at": "2019-04-25T09:51:57.000"
+      },
+      {
+        "name": "Central AZ College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/central-az-college/",
+        "updated_at": "2019-04-25T09:51:57.000"
+      },
+      {
+        "name": "Cochise College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/cochise-college/",
+        "updated_at": "2019-04-25T09:51:57.000"
+      },
+      {
+        "name": "Eastern AZ College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/eastern-az-college/",
+        "updated_at": "2019-04-25T09:51:58.000"
+      },
+      {
+        "name": "Maricopa Community Colleges",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/maricopa-community-colleges/",
+        "updated_at": "2019-04-25T09:51:58.000"
+      },
+      {
+        "name": "Pima Community College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/pima-community-college/",
+        "updated_at": "2019-04-25T09:51:58.000"
+      },
+      {
+        "name": "Yavapai College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/community-colleges/yavapai-college/",
+        "updated_at": "2019-04-25T09:51:58.000"
+      },
+      {
+        "name": "Public Universities",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/public-universities/",
+        "updated_at": "2019-04-25T09:52:13.000"
+      },
+      {
+        "name": "ASU",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/public-universities/asu/",
+        "updated_at": "2019-04-25T09:52:03.000"
+      },
+      {
+        "name": "UofA",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/public-universities/uofa/",
+        "updated_at": "2019-04-25T09:52:03.000"
+      },
+      {
+        "name": "NAU",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/public-universities/nau/",
+        "updated_at": "2019-04-25T09:52:04.000"
+      },
+      {
+        "name": "Private Univerities",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/",
+        "updated_at": "2019-04-25T09:52:10.000"
+      },
+      {
+        "name": "GCU",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/gcu/",
+        "updated_at": "2019-04-25T09:52:07.000"
+      },
+      {
+        "name": "Embry-Riddle",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/embry-riddle/",
+        "updated_at": "2019-04-25T09:52:08.000"
+      },
+      {
+        "name": "Midwestern University",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/midwestern-university/",
+        "updated_at": "2019-04-25T09:52:08.000"
+      },
+      {
+        "name": "Prescott College",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/prescott-college/",
+        "updated_at": "2019-04-25T09:52:08.000"
+      },
+      {
+        "name": "UoP",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/education/private-univerities/uop/",
+        "updated_at": "2019-04-25T09:52:08.000"
+      },
+      {
+        "name": "Connect",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/connect/",
+        "updated_at": "2019-04-25T15:58:43.000"
+      },
+      {
+        "name": "Events",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/",
+        "updated_at": "2019-04-25T15:58:43.000"
+      },
+      {
+        "name": "Phoenix Career Fair and Job Fair",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/phoenix-career-fair-and-job-fair/",
+        "updated_at": "2019-04-26T13:43:04.000"
+      },
+      {
+        "name": "LifeVantage Academy",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/lifevantage-academy/",
+        "updated_at": "2019-05-03T14:54:52.000"
+      },
+      {
+        "name": "Event Title Here",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/event-title-here/",
+        "updated_at": "2019-04-25T09:49:57.000"
+      },
+      {
+        "name": "Lorem Ipsum Dolor Sit",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/lorem-ipsum-dolor-sit/",
+        "updated_at": "2019-04-25T09:49:57.000"
+      },
+      {
+        "name": "Event Title Here (1)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/event-title-here-1/",
+        "updated_at": "2019-04-25T09:49:57.000"
+      },
+      {
+        "name": "Eventoday",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/eventoday/",
+        "updated_at": "2019-04-25T09:49:58.000"
+      },
+      {
+        "name": "Eventommorrow",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/eventommorrow/",
+        "updated_at": "2019-04-25T09:49:58.000"
+      },
+      {
+        "name": "Event with a very long title so I can test where the arrow is in relation to the title",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/events/event-with-a-very-long-title-so-i-can-test-where-the-arrow-is-in-relation-to-the-title/",
+        "updated_at": "2019-04-26T13:31:48.000"
+      },
+      {
+        "name": "Media",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/",
+        "updated_at": "2019-04-25T15:58:43.000"
+      },
+      {
+        "name": "Scenic",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/scenic/",
+        "updated_at": "2019-04-25T09:49:49.000"
+      },
+      {
+        "name": "Urban",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/urban/",
+        "updated_at": "2019-04-25T09:49:50.000"
+      },
+      {
+        "name": "Success Stories",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/success-stories/",
+        "updated_at": "2019-04-25T09:49:50.000"
+      },
+      {
+        "name": "Program Testimonials",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/program-testimonials/",
+        "updated_at": "2019-04-25T09:49:50.000"
+      },
+      {
+        "name": "Company Profiles",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/company-profiles/",
+        "updated_at": "2019-04-25T09:49:51.000"
+      },
+      {
+        "name": "Promotional Videos",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/promotional-videos/",
+        "updated_at": "2019-04-25T09:49:51.000"
+      },
+      {
+        "name": "Dumbo Drop",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/media/dumbo-drop/",
+        "updated_at": "2019-04-25T09:49:52.000"
+      },
+      {
+        "name": "Search Results",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/search-results/",
+        "updated_at": "2019-04-25T09:49:38.000"
+      },
+      {
+        "name": "News",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/",
+        "updated_at": "2019-04-26T09:48:06.000"
+      },
+      {
+        "name": "Zillow",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow/",
+        "updated_at": "2019-04-25T09:49:26.000"
+      },
+      {
+        "name": "Zillow (1)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-1/",
+        "updated_at": "2019-04-25T09:49:26.000"
+      },
+      {
+        "name": "Zillow (2)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-2/",
+        "updated_at": "2019-04-25T09:49:26.000"
+      },
+      {
+        "name": "Zillow (1) (1)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-1-1/",
+        "updated_at": "2019-04-25T09:49:26.000"
+      },
+      {
+        "name": "Zillow (3)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-3/",
+        "updated_at": "2019-04-25T09:49:27.000"
+      },
+      {
+        "name": "Zillow (1) (2)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-1-2/",
+        "updated_at": "2019-04-25T09:49:27.000"
+      },
+      {
+        "name": "Zillow (2) (1)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-2-1/",
+        "updated_at": "2019-04-25T09:49:27.000"
+      },
+      {
+        "name": "Zillow (1) (1) (1)",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/zillow-1-1-1/",
+        "updated_at": "2019-04-25T09:49:27.000"
+      },
+      {
+        "name": "Test 123",
+        "link": "https://azcommerce.lavidgeinteractive.com/ambassadorv2/news/test-123/",
+        "updated_at": "2019-04-25T13:49:33.000"
       }
     ]
   }
